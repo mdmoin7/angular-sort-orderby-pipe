@@ -15,8 +15,8 @@ npm install ngp-sort --save
 ##### In HTML template
 
 ```html
-{{ collection | sortBy : asc|desc }} {{ collection | sortBy : asc|desc :
-column/property_name }}
+{{ collection | sortBy : asc|desc }} 
+{{ collection | sortBy : asc|desc : column/property_name }}
 ```
 
 ### Arguments
