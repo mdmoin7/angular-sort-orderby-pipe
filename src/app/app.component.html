@@ -1,0 +1,14 @@
+<h1>One dimensional Array</h1>
+<ul>
+  <li *ngFor="let s of clientScrips|sortBy:'asc'">{{s}}</li>
+</ul>
+
+<h1>Array of Objects (JSON)</h1>
+<h2>Sort by name</h2>
+<ul>
+  <li *ngFor="let s of data|sortBy:'asc':'name'">{{s.id}}-{{s.name}}</li>
+</ul>
+<h2>Sort by id</h2>
+<ul>
+  <li *ngFor="let s of data|sortBy:'desc':'id'">{{s.id}}-{{s.name}}</li>
+</ul>
