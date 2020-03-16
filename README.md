@@ -7,7 +7,7 @@
 ## Install
 
 ```
-npm install ngp-sort --save
+npm install ngp-sort-pipe --save
 ```
 
 ## Usage
