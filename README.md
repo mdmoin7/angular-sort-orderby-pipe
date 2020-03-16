@@ -24,7 +24,7 @@ npm install ngp-sort-pipe --save
 | Param                    | Type                | Details                         |
 | ------------------------ | ------------------- | ------------------------------- |
 | collection               | `array` or `object` | The collection or array to sort |
-| order                    | `string`            | The Sort Order (asc             | desc) |
+| order                    | `string`            | The Sort Order (asc or desc)    |
 | property_name (optional) | `string`            | Name of Property to sort by     |
 
 <br/>
