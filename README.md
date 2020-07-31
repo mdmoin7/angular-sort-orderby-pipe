@@ -36,7 +36,7 @@ import { NgModule } from "@angular/core";
 import { BrowserModule } from "@angular/platform-browser";
 import { AppComponent } from "./app";
 
-import { NgpSortModule } from "ngc-sort";
+import { NgpSortModule } from "ngp-sort";
 
 @NgModule({
   imports: [BrowserModule, NgpSortModule],
