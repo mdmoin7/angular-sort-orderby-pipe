@@ -1,6 +1,7 @@
 [![ngp-sort-pipe](https://snyk.io/advisor/npm-package/ngp-sort-pipe/badge.svg)](https://snyk.io/advisor/npm-package/ngp-sort-pipe)
-[![Rate on Openbase](https://badges.openbase.io/js/rating/ngp-sort-pipe.svg)](https://openbase.io/js/ngp-sort-pipe?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
-# Angular Sort/OrderBy Pipe (Angular v5/6/7/8/9/10)
+[![](https://data.jsdelivr.com/v1/package/npm/ngp-sort-pipe/badge)](https://www.jsdelivr.com/package/npm/ngp-sort-pipe)
+
+# Angular Sort/OrderBy Pipe (Angular v5/6/7/8/9/10) [![Rate on Openbase](https://badges.openbase.io/js/rating/ngp-sort-pipe.svg)](https://openbase.io/js/ngp-sort-pipe?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
 
 ### Demo & Code Sample
 
