@@ -1,4 +1,5 @@
-# Angular Sort/OrderBy Pipe (Angular v5+)
+[![ngp-sort-pipe](https://snyk.io/advisor/npm-package/ngp-sort-pipe/badge.svg)](https://snyk.io/advisor/npm-package/ngp-sort-pipe)
+# Angular Sort/OrderBy Pipe (Angular v5/6/7/8/9/10)
 
 ### Demo & Code Sample
 
